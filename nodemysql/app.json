@@ -1,0 +1,8 @@
+{
+  "name": "nodemysql",
+  "description": "Sample app for using mysql with node",
+  "repository": "https://github.com/mahi8069/apinode.git"
+  "logo": "",
+  "keyword":[""],
+	"image":"heroku/nodejs"
+}
